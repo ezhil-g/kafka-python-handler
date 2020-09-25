@@ -5,9 +5,9 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="kafka_python_handler",
-    version="0.1.0",
+    version="0.0.2",
     author="Ezhil Gowthaman",
-    author_email="ezhilgma@gmail.com",
+    author_email="ezhilgowtha@gmail.com",
     description="A simple package to test kafka-python.",
     long_description=long_description,
     long_description_content_type="text/markdown",

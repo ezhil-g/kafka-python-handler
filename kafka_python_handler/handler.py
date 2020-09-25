@@ -2,7 +2,7 @@ import logging
 import time
 import os
 
-from producer import Producer
+from kafka_python_handler import Producer
 
 class Handler():
 
